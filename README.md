@@ -1,5 +1,7 @@
 # IPL_Analysis-2008-2020
 
+![IPL](https://github.com/seandhan/IPL_Analysis-2008-2020/assets/68305117/231bc262-5b97-48df-a118-10f4629bfef6)
+
 This project delves into the analysis of the Indian Premier League (IPL) twenty-over (T20) cricket tournament match data spanning from 2008 to 2020. The primary focus of this analysis revolves around player performance, specifically batting and bowling, as well as examining the influence of the coin toss on match outcomes.
 
 Cricket, often hailed as "a gentleman's game," boasts a rich heritage dating back to 1709 in England. It has evolved into a beloved sport with global reach, notably during the era of the British Empire. In India, cricket has transcended borders, uniting diverse communities and identities.
