@@ -46,7 +46,8 @@ a. Which teams won and lost the most IPL final matches?<br>
 b. What is the probability that the toss winner win the match? Does the choice to bat or field impact the chance of winning?<br>
 c. What is the most common win type?<br>
 
-
+## Analysis
+Click [HERE](https://github.com/seandhan/IPL_Analysis-2008-2020/blob/main/Indian%20Premier%20League%20Analysis%20(2008%20-%202020).ipynb) to view the analysis.
 
 
 
