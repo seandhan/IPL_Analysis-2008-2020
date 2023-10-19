@@ -1,6 +1,6 @@
 # IPL_Analysis-2008-2020
 
-![IPL](https://github.com/seandhan/IPL_Analysis-2008-2020/assets/68305117/231bc262-5b97-48df-a118-10f4629bfef6)
+![](https://github.com/seandhan/IPL_Analysis-2008-2020/blob/main/IPL.jpg)
 
 This project delves into the analysis of the Indian Premier League (IPL) twenty-over (T20) cricket tournament match data spanning from 2008 to 2020. The primary focus of this analysis revolves around player performance, specifically batting and bowling, as well as examining the influence of the coin toss on match outcomes.
 
